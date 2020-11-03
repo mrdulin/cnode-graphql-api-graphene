@@ -21,3 +21,5 @@ func MultiplicationTable(size int) [][]int {
   }
   return res
 }
+
+
